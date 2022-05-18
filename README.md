@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ NicolaWard
+- 👋 Hi, I’m Nicola Ward
 - 👀 I’m interested in ...switching careers into tech.
 - 🌱 I’m currently learning ... Python & JavaScript.
 - 💞️ I’m looking to network and collaborate on projects.
-- 📫 How to reach me ... nicolaogle@ymail.com or @kelhamprint
+- 📫 How to reach me ... nicolaogle@ymail.com or @nicolaogle
 
 <!---
 NicolaWard/NicolaWard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
