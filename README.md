@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nicola Ward
 - 👀 I’m interested in ...switching careers into tech.
-- 🌱 I’m currently learning ... Python & JavaScript.
+- 🌱 I’m currently completing the Full Stack Degree with Code First Girls.
 - 💞️ I’m looking to network and collaborate on projects.
 - 📫 How to reach me ... nicolaogle@ymail.com 
 
