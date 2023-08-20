@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nicola Ward
-- 👀 I’m interested in ...switching careers into tech.
-- 🌱 I’m currently completing the Full Stack Degree with Code First Girls.
+- 🌱 I am currently a Junior Software Engineer interested in ...learning more about Full Stack Development
 - 💞️ I’m looking to network and collaborate on projects.
 - 📫 How to reach me ... nicolaogle@ymail.com 
 
